@@ -1,0 +1,162 @@
+{
+  "Basics": {
+    "First Steps In Coding": {
+      "Lab": [
+        "Hello SoftUni",
+        "Numbers 1 to 10",
+        "Square Area",
+        "Inches to Centimeters",
+        "Greeting by Name",
+        "Concatenate Data",
+        "Projects Creation",
+        "Pet Shop",
+        "Yard Greening"
+      ],
+      "Exercises": [
+        "USD to BGN",
+        "Radians to Degrees",
+        "Deposit Calculator",
+        "Vacation books list",
+        "Birthday party",
+        "Charity Campaign",
+        "Fruit Market",
+        "Fish Tank"
+      ]
+    },
+    "Conditional Statements": {
+      "Lab": [
+        "Excellent Result",
+        "Greater Number",
+        "Even or Odd",
+        "Number 100-200",
+        "Password Guess",
+        "Area of Figures",
+        "Toy Shop"
+      ],
+      "Exercises": [
+        "Sum Seconds",
+        "Bonus Score",
+        "Speed Info",
+        "Metric Converter",
+        "Time add 15 Minutes",
+        "Godzilla vs Kong",
+        "World Swimming Record",
+        "Scholarship"
+      ]
+    },
+    "Conditional Statements Advanced": {
+      "Lab": [
+        "Day of Week",
+        "Weekend or Working Day",
+        "Animal Type",
+        "Personal Titles",
+        "Small Shop",
+        "Number in Range",
+        "Working Hours",
+        "Cinema Ticket",
+        "Fruit or Vegetable",
+        "Invalid Number",
+        "Fruit Shop",
+        "Trade Commissions",
+        "Ski Trip"
+      ],
+      "Exercises": [
+        "Cinema",
+        "Summer Outfit",
+        "New House",
+        "Fishing Boat",
+        "Journey",
+        "Operations Between Numbers",
+        "Hotel Room",
+        "On Time for the Exam",
+        "Volleyball"
+      ]
+    },
+    "For Loop": {
+      "Lab": [
+        "Numbers from 1 to 100",
+        "Numbers N to 1",
+        "Numbers 1 to N with Step 3",
+        "Even Powers of 2",
+        "Character Sequence",
+        "Vowels Sum",
+        "Sum Numbers",
+        "Number sequence",
+        "Left and Right Sum",
+        "Odd Even Sum",
+        "Clever Lily"
+      ],
+      "Exercises": [
+        "Numbers Ending in 7",
+        "Half Sum Element",
+        "Odd Even Position",
+        "Histogram",
+        "Divide Without Remainder",
+        "Salary"
+      ]
+    },
+    "While Loop": {
+      "Lab": [
+        "Read Text",
+        "Password",
+        "Sum Numbers",
+        "Sequence 2k plus 1",
+        "Account Balance",
+        "Max Number",
+        "Min Number",
+        "Graduation part 2",
+        "Moving"
+      ],
+      "Exercises": [
+        "Old Books",
+        "Exam Preparation",
+        "Vacation",
+        "Walking",
+        "Coins",
+        "Cake"
+      ]
+    },
+    "Nested Loops": {
+      "Lab": [
+        "Clock",
+        "Multiplication Table",
+        "Combinations",
+        "Sum of Two Numbers",
+        "Travelling",
+        "Building",
+        "Cinema Tickets"
+      ],
+      "Exercises": [
+        "Number Pyramid",
+        "Equal Sums Even Odd Position",
+        "Sum Prime Non Prime",
+        "Train The Trainers",
+        "Password Generator",
+        "Special Numbers"
+      ]
+    }
+  },
+  "Fundamentals": {
+    "Basic Syntax Conditional Statements and Loops": {
+      "Lab": [
+        "Biggest Of Three Numbers",
+        "Number Definer",
+        "Word Reverse",
+        "Number Between 1 and 100",
+        "Patterns"
+      ],
+      "Exercises": [
+        "Jenny Secret Message",
+        "Drink Something",
+        "Leonardo DiCaprio Oscars",
+        "Double Char",
+        "Cannot Sleep Count Sheep",
+        "Next Happy Year",
+        "Maximum Multiple",
+        "Mutate Strings",
+        "Easter Cozonacs",
+        "Christmas Spirit"
+      ]
+    }
+  }
+}
