@@ -1,4 +1,4 @@
-# Jenny Secret Message
+# Jennys Secret Message
 
 username = input()
 
