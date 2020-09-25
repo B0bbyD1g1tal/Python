@@ -12,7 +12,7 @@ fundamentals = [
                 "Patterns"
             ],
             "Exercises": [
-                "Jenny Secret Message",
+                "Jennys Secret Message",
                 "Drink Something",
                 "Leonardo DiCaprio Oscars",
                 "Double Char",
@@ -22,11 +22,18 @@ fundamentals = [
                 "Mutate Strings",
                 "Easter Cozonacs",
                 "Christmas Spirit"
+            ],
+            "More Exercises": [
+                "Find The Largest",
+                "Find The Capitals",
+                "Wolf In Sheeps Clothing",
+                "Sum Of A Beach",
+                "How Much Coffee Do You Need"
             ]
         }
     }
 ]
-course_path = "C:/Users/BoYaN/Code/Python/Fundamentals/"
+course_path = "/home/b0bby/Code/Python/Fundamentals/"
 for lecture in fundamentals:
     for lecture_name, lecture_content in lecture.items():
         lecture_dir = pathlib.Path(course_path, lecture_name)
@@ -35,6 +42,7 @@ for lecture in fundamentals:
             readme.write(f'# {lecture_name}\n')
             for tasks in lecture_content:
                 readme.write(f'\n## {tasks}\n')
+                readme.write(f'### [{tasks} tasks](./)\n\n')
                 problems = lecture_content[tasks]
                 for problem in enumerate(problems, start=1):
                     file_name = f'{problem[1].replace(" ", "_").lower()}.py'
