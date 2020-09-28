@@ -24,9 +24,9 @@
 10. [Gladiator Expenses](./gladiator_expenses.py)
 
 ## More Exercises
-### [More Exercises tasks](./)
+### [More Exercises tasks](./02-Data-Types-and-Variables-More-Exercises.pdf)
 
-1. [Biggest of 3 Numbers](./biggest_of_3_numbers.py)
+1. [Biggest of 3 Numbers](../Basic Syntax Conditional Statements and Loops/biggest_of_three_numbers.py)
 2. [Exchange Integers](./exchange_integers.py)
 3. [Prime Number Checker](./prime_number_checker.py)
 4. [Decrypting Messages](./decrypting_messages.py)
