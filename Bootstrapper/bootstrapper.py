@@ -3,32 +3,32 @@ import pathlib
 
 fundamentals = [
     {
-        "Basic Syntax Conditional Statements and Loops": {
+        "Data Types and Variables": {
             "Lab": [
-                "Biggest Of Three Numbers",
-                "Number Definer",
-                "Word Reverse",
-                "Number Between 1 and 100",
-                "Patterns"
+                "Concat Names",
+                "Centuries to Minutes",
+                "Special Numbers",
+                "Convert Meters to Kilometers",
+                "Pounds to Dollars"
             ],
             "Exercises": [
-                "Jennys Secret Message",
-                "Drink Something",
-                "Leonardo DiCaprio Oscars",
-                "Double Char",
-                "Cannot Sleep Count Sheep",
-                "Next Happy Year",
-                "Maximum Multiple",
-                "Mutate Strings",
-                "Easter Cozonacs",
-                "Christmas Spirit"
+                "Integer Operations",
+                "Chars to String",
+                "Elevator",
+                "Sum of Chars",
+                "Print Part of the ASCII Table",
+                "Triples of Latin Letters",
+                "Water Overflow",
+                "Party Profit",
+                "Snowballs",
+                "Gladiator Expenses"
             ],
             "More Exercises": [
-                "Find The Largest",
-                "Find The Capitals",
-                "Wolf In Sheeps Clothing",
-                "Sum Of A Beach",
-                "How Much Coffee Do You Need"
+                "Biggest of 3 Numbers",
+                "Exchange Integers",
+                "Prime Number Checker",
+                "Decrypting Messages",
+                "Balanced Brackets"
             ]
         }
     }
