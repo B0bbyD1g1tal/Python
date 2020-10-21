@@ -164,6 +164,34 @@
         "Sum Of A Beach",
         "How Much Coffee Do You Need"
       ]
+    },
+    "Data Types and Variables": {
+      "Lab": [
+        "Concat Names",
+        "Centuries to Minutes",
+        "Special Numbers",
+        "Convert Meters to Kilometers",
+        "Pounds to Dollars"
+      ],
+      "Exercises": [
+        "Integer Operations",
+        "Chars to String",
+        "Elevator",
+        "Sum of Chars",
+        "Print Part of the ASCII Table",
+        "Triples of Latin Letters",
+        "Water Overflow",
+        "Party Profit",
+        "Snowballs",
+        "Gladiator Expenses"
+      ],
+      "More Exercises": [
+        "Biggest of three Numbers",
+        "Exchange Integers",
+        "Prime Number Checker",
+        "Decrypting Messages",
+        "Balanced Brackets"
+      ]
     }
   }
 }

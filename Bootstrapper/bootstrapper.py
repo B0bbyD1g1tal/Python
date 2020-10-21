@@ -3,36 +3,37 @@ import pathlib
 
 fundamentals = [
     {
-        "Data Types and Variables": {
+        "Lists Basics": {
             "Lab": [
-                "Concat Names",
-                "Centuries to Minutes",
-                "Special Numbers",
-                "Convert Meters to Kilometers",
-                "Pounds to Dollars"
+                "Strange Zoo",
+                "Courses",
+                "List Statistics",
+                "Search",
+                "Numbers Filter"
             ],
             "Exercises": [
-                "Integer Operations",
-                "Chars to String",
-                "Elevator",
-                "Sum of Chars",
-                "Print Part of the ASCII Table",
-                "Triples of Latin Letters",
-                "Water Overflow",
-                "Party Profit",
-                "Snowballs",
-                "Gladiator Expenses"
+                "Invert Values",
+                "Multiples List",
+                "Football Cards",
+                "Number Beggars",
+                "Faro Shuffle",
+                "Survival of the Biggest",
+                "Easter Gifts",
+                "Seize the Fire",
+                "Hello France",
+                "Bread Factory"
             ],
             "More Exercises": [
-                "Biggest of 3 Numbers",
-                "Exchange Integers",
-                "Prime Number Checker",
-                "Decrypting Messages",
-                "Balanced Brackets"
+                "Zeros to Back",
+                "Tic-Tac-Toe",
+                "Josephus Permutation",
+                "Battle Ships",
+                "Hungry Hippos"
             ]
         }
     }
 ]
+
 course_path = "/home/b0bby/Code/Python/Fundamentals/"
 for lecture in fundamentals:
     for lecture_name, lecture_content in lecture.items():
